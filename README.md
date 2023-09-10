@@ -105,8 +105,6 @@
      </tr>
   </table> -->
 
-
- <H3>FINALLY WE USED THE CLASSIFIER logistic regression GOT AN aacuracy .7</H3>
  <H3>DEPLOYED BY USING FLASK</H3>
   <H3>HOPE YOU UNDERSTAND</H3>  
      
