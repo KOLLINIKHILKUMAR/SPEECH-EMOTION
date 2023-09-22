@@ -1,7 +1,4 @@
 <h1>****** SPEECH EMOTION DETECTION ******</h1>
-
-## Speech
-
 <br>
 <center>PYTHON--------JUPYTER--------FRONTEND---------DEPLOYMENT-(FLASK)</center>
 <br>
